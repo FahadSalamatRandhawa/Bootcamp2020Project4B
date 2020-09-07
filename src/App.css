@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.cover {
+  height: 100%;
+  width: 100%;
+}
+
+
+#knight1 {
+  position: absolute;
+  bottom: 15%;
+  right: 30%;
+  height: 100px;
+}
+#knight2 {
+  position: absolute;
+  bottom: 6%;
+  right: 25%;
+  height: 80px;
+}
+.mall {
+  height: 100%;
+  width: 100%;
+}
+
+.castle {
+  position: absolute;
+  left: -1%;
+  bottom: 8%;
+  height: 300px;
+}
+
+.button {
+  position: absolute;
+  bottom: 36%;
+  right: 20%;
+}
